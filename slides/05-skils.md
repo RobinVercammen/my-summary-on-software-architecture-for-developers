@@ -11,4 +11,4 @@ From previous
 
 ## Consultancy
 Wider range of domains  
-Adapting to chaning domains
+Adapting to changing domains
